@@ -4,6 +4,10 @@ OpenCV를 위한 머신러닝 => [책 링크](http://www.kyobobook.co.kr/product
 <br>
 ![OpenCV를 위한 머신러닝](http://image.kyobobook.co.kr/images/book/large/965/l9791161750965.jpg)
 
+노션
+-----------------
+[OpenCV_Study Notion.so](https://www.notion.so/OpenCV-8b5b3e091aef48b38753e6201c7f60be)
+
 | <center>회차 | <center>제목 | <center>노션 | <center>Git |
 | - | - | - | - |
 | <div style="text-align: right">2장 | OpenCV와 파이썬의 데이터 작업 | <center>[link](https://www.notion.so/2-OpenCV-de42556949ba415cbd4501fb985596a6) | <center>[link]() |
