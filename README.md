@@ -23,7 +23,7 @@ Machine Learning for OpenCV Github  => [link](https://github.com/mbeyeler/opencv
 
 | <center>회차 | <center>제목 | <center>노션 | <center>Git |
 | - | - | - | - |
-| <div style="text-align: right">2장 | OpenCV와 파이썬의 데이터 작업 | <center>[link](https://www.notion.so/2-OpenCV-de42556949ba415cbd4501fb985596a6) | <center>[link]() |
+| <div style="text-align: right">2장 | OpenCV와 파이썬의 데이터 작업 | <center>[link](https://www.notion.so/2-OpenCV-de42556949ba415cbd4501fb985596a6) | <center>[link](https://github.com/nickjw0205/OpenCV_Study/tree/main/2%EC%9E%A5%20OpenCV%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%91%EC%97%85) |
 | <div style="text-align: right">3장 | 지도 학습의 첫 번째 단계 | <center>[link](https://www.notion.so/3-003a4f656d7f446eb34d05b11f1c6090) | <center>[link]() |
 | <div style="text-align: right">4장 | 엔지니어링 특징 표현하기 | <center>[link](https://www.notion.so/4-2d2c4a08aed04ea98c813947c48710c5) | <center>[link]() |
 | <div style="text-align: right">5장 | 의사 결정 트리를 사용하여 의료 진단하기 | <center>[link](https://www.notion.so/5-4ab75dfb72c640edac7433f414621ad0) | <center>[link]() |
