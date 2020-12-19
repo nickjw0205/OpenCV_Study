@@ -2,12 +2,20 @@
 
 책
 ------------------
+<img src="http://image.kyobobook.co.kr/images/book/large/965/l9791161750965.jpg" width="200" align="left" style="padding: 1px; border: 1px solid black; margin-right: 5px"/> <br/>
 OpenCV를 위한 머신러닝 => [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750965&orderClick=LAG&Kc=)
 <br>
 <br>
-![OpenCV를 위한 머신러닝](http://image.kyobobook.co.kr/images/book/large/965/l9791161750965.jpg)
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 원본 책
 ---------
 <img src="https://images-na.ssl-images-amazon.com/images/I/41CKBKW8y4L.jpg" width="200" align="left" style="padding: 1px; border: 1px solid black; margin-right: 5px"/> <br/>
