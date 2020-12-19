@@ -1,10 +1,23 @@
 # OpenCV_Study
 
-OpenCV를 위한 머신러닝 => [책 링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750965&orderClick=LAG&Kc=)<br>
+책
+------------------
+OpenCV를 위한 머신러닝 => [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750965&orderClick=LAG&Kc=)
+<br>
 <br>
 ![OpenCV를 위한 머신러닝](http://image.kyobobook.co.kr/images/book/large/965/l9791161750965.jpg)
+<br>
+<br>
+원본 책
+---------
+<img src="https://images-na.ssl-images-amazon.com/images/I/41CKBKW8y4L.jpg" width="200" align="left" style="padding: 1px; border: 1px solid black; margin-right: 5px"/> <br/>
+Michael Beyeler<br>
+Machine Learning for OpenCV<br>
+Intelligent Image Processing with Python<br><br>
+Machine Learning for OpenCV Github  => [link](https://github.com/mbeyeler/opencv-machine-learning)
 
-노션
+<br><br><br><br><br>
+공부 내용 정리 노션
 -----------------
 [OpenCV_Study Notion.so](https://www.notion.so/OpenCV-8b5b3e091aef48b38753e6201c7f60be)
 
